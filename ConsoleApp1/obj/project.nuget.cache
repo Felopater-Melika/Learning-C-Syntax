@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rGWFifeEkUjC7krzHXc6ei0ZE5qx58Co7RixorA69C9UJdt2/gUSIRFbLTg8nGARqBJTf8NPkrf4H+N7yUYJQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\philo\\source\\repos\\Helloworld\\ConsoleApp1\\HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\philo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\philo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\philo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\philo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
